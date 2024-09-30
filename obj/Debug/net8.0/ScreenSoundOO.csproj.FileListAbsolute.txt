@@ -1,0 +1,14 @@
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\bin\Debug\net8.0\ScreenSoundOO.exe
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\bin\Debug\net8.0\ScreenSoundOO.deps.json
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\bin\Debug\net8.0\ScreenSoundOO.runtimeconfig.json
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\bin\Debug\net8.0\ScreenSoundOO.dll
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\bin\Debug\net8.0\ScreenSoundOO.pdb
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.AssemblyInfoInputs.cache
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.AssemblyInfo.cs
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.csproj.CoreCompileInputs.cache
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.dll
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\refint\ScreenSoundOO.dll
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.pdb
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.genruntimeconfig.cache
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ref\ScreenSoundOO.dll
