@@ -12,3 +12,4 @@ C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\refi
 C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.pdb
 C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.genruntimeconfig.cache
 C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ref\ScreenSoundOO.dll
+C:\Users\Willy\Desktop\programacion\Alura\C#\ScreenSoundOO\obj\Debug\net8.0\ScreenSoundOO.sourcelink.json

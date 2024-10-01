@@ -1,19 +1,14 @@
-﻿Musica musica1 = new Musica();
-musica1.Nombre="Numb";
-musica1.Artista="Linkin Park";
-musica1.Duracion= 222;
-musica1.Disponible=true;
-Console.WriteLine(musica1.Resumen);
+﻿Album albumLinkinPark = new Album();
+albumLinkinPark.Nombre= "Hybrid Theory";
 
-
+Musica musica1 = new Musica();
+musica1.Nombre = "Numb";
+musica1.Duracion=200;
 Musica musica2 = new Musica();
+musica2.Nombre="In The End";
+musica2.Duracion=230;
 
-musica2.Nombre="La Jumpa";
-musica2.Artista="BadBunny";
-musica2.Duracion= 300;
-musica2.Disponible=false;
+albumLinkinPark.AgregarMusica(musica1);
+albumLinkinPark.AgregarMusica(musica2);
 
-
-musica1.MostrarFichaTecnica();
-musica2.MostrarFichaTecnica();
-
+albumLinkinPark.ExhibirAlbum();
