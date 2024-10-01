@@ -11,4 +11,7 @@ musica2.Duracion=230;
 albumLinkinPark.AgregarMusica(musica1);
 albumLinkinPark.AgregarMusica(musica2);
 
-albumLinkinPark.ExhibirAlbum();
+Grupo LinkinPark = new Grupo();
+LinkinPark.Nombre = "Linkin Park";
+LinkinPark.AgregarAlbum(albumLinkinPark);
+LinkinPark.ExhibirDiscografia();
