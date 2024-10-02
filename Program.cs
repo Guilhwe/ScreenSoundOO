@@ -1,19 +1,31 @@
 ﻿
-Grupo LinkinPark = new Grupo();
-LinkinPark.Nombre = "Linkin Park";
-Album albumLinkinPark = new Album();
-albumLinkinPark.Nombre= "Hybrid Theory";
+Grupo LinkinPark = new Grupo("Linkin Park");
 
-Musica musica1 = new Musica(LinkinPark);
-musica1.Nombre = "Numb";
-musica1.Duracion=200;
-Musica musica2 = new Musica(LinkinPark);
-musica2.Nombre="In The End";
-musica2.Duracion=230;
+Album albumLinkinPark = new Album("Hybrid Theory");
+
+
+Musica musica1 = new Musica(LinkinPark, "Numb")
+{
+    Duracion = 200,
+    Disponible = true
+};
+
+
+Musica musica2 = new Musica(LinkinPark,"In The End")
+{
+    Duracion=230,
+    Disponible=false
+};
+
 
 albumLinkinPark.AgregarMusica(musica1);
 albumLinkinPark.AgregarMusica(musica2);
-
-
 LinkinPark.AgregarAlbum(albumLinkinPark);
+
+albumLinkinPark.ExhibirAlbum();
+
+musica1.MostrarFichaTecnica();
+musica2.MostrarFichaTecnica();
+
+
 LinkinPark.ExhibirDiscografia();

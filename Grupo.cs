@@ -1,7 +1,12 @@
 class Grupo
  {
     private List<Album> albums = new List<Album>();  
-    public string? Nombre {get; set;}
+    public Grupo(string nombre)
+    {
+        Nombre = nombre;
+        
+    }
+    public string? Nombre {get;}
     public void AgregarAlbum(Album album)
     {
         albums.Add(album);
